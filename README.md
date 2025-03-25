@@ -1,4 +1,8 @@
-# device_radar
+<p align="center">
+    <img alt="Alt text" src="relative%20path/assets/images/logo/logo.jpg?raw=true" title="Logo"/>
+</p>
+
+# Device Radar
 
 Una aplicación para monitorear dispositivos en la red.
 
@@ -32,7 +36,5 @@ Rojo: Dispositivo apagado
 Controles:
 
 Botón Play/Stop en la barra superior para iniciar/detener el monitoreo
-
-
 
 Esta aplicación utiliza ping para comprobar si los dispositivos están respondiendo en la red y guarda la configuración localmente para que persista entre sesiones.
