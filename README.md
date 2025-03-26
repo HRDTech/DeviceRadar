@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="Alt text" src="relative%20path/assets/images/logo/logo.jpg?raw=true" title="Logo"/>
+    <img alt="Alt text" src="/assets/images/logo/logo.jpg?raw=true" title="Logo"/>
 </p>
 
 # Device Radar
