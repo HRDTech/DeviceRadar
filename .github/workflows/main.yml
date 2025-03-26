@@ -96,6 +96,6 @@ jobs:
       - name: Create Release
         uses: ncipollo/release-action@v1
         with:
-          artifacts: "build/app/outputs/flutter-apk/app-release.apk,build/app/outputs/bundle/release/app-release.aab"
+          artifacts: "build/app/outputs/flutter-apk/DeviceMonitor_v${env.VERSION}.apk,build/app/outputs/bundle/release/DeviceMonitor_v${env.VERSION}.aab"
           tag: v${{ env.VERSION }}
           token: ${{ secrets.TOKEN }}
